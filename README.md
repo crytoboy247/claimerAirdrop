@@ -1,2 +1,3 @@
-# react-web3-modal
+# Claimer for Airdrop
+
 Web3 modal
